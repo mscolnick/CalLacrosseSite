@@ -1,70 +1,7 @@
-<!DOCTYPE html>
+<?php 
+$title = 'Players';
+include 'header.php';?>
 
-<html lang="en-US">
-<head>
-    <!--
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
--->
-
-    <title>University of California Men's Lacrosse | Players</title>
-    <link href="style/styles.css" rel="stylesheet" type="text/css">
-    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript">
-</script>
-    <script src="js/bootstrap.js" type="text/javascript">
-</script>
-    <script type="text/javascript">
-$(function(){
-                var normalColor = $('a:link').css('color');
-                $('a:visited').css('color', normalColor);
-            });
-    </script><!--Favicon-->
-    <link rel="shortcut icon" href="images/logo/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="images/logo/favicon.ico" type="image/x-icon">
-</head>
-
-<body class="background">
-    <div class="container">
-        <div class="social-top">
-            <a href="https://twitter.com/CalBearsLax"><img alt="twitter" src="images/social/twitter.png"></a> <a href="https://www.facebook.com/pages/California-Mens-Lacrosse/191022664259579"><img alt="facebook" src="images/social/facebook.png"></a> <a href="http://www.linkedin.com/groups/Cal-Lacrosse-Alumni-Group-4879125"><img alt="linkedin" src="images/social/linkedin.png"></a>
-        </div><!-- social-bar -->
-
-        <div class="cover"></div><!-- cover -->
-
-        <nav class="navbar navbar-default">
-            <ul class="nav nav-justified">
-                <li><a href="index.html">Home</a></li>
-
-                <li><a href="news.html">News</a></li>
-
-                <li><a href="schedule.html">Schedule</a></li>
-
-                <li class="dropdown">
-                    <a class="dropdown-toggle" data-toggle="dropdown" href="">Roster</a>
-
-                    <ul class="dropdown-menu">
-                        <li class="drop-li"><a class="drop-a" href="players.html">Players</a></li>
-
-                        <li class="drop-li"><a class="drop-a" href="coaches.html">Coaches</a></li>
-                    </ul>
-                </li>
-
-                <li><a href="recruiting.html">Recruiting</a></li>
-
-                <li><a href="alumni.html">Alumni</a></li>
-
-                <li><a href="donate.html">Donate</a></li>
-
-                <li><a href="contact.html">Contact</a></li>
-
-                <li><a href="history.html">History</a></li>
-
-                <li><a href="http://www.calbearsshop.com/categories-dtg-lacrosse.html" target="_blank">Gear</a></li>
-            </ul>
-        </nav><!-- navbar -->
-
-        <div class="content">
             <div class="row">
                 <h4 class="top-title">Player Roster</h4>
 
@@ -131,46 +68,6 @@ $(function(){
                                 <th>Baltimore, MD</th>
 
                                 <th>McDonogh</th>
-                            </tr>
-
-                            <tr>
-                                <th>3</th>
-
-                                <th><a data-toggle="modal" href="#TomRiis">Riis, Tom</a></th>
-
-                                <th>So</th>
-
-                                <th>M</th>
-
-                                <th>5'11"</th>
-
-                                <th>170</th>
-
-                                <th>Physics</th>
-
-                                <th>Carlsbad, CA</th>
-
-                                <th>La Costa Canyon</th>
-                            </tr>
-
-                            <tr>
-                                <th>5</th>
-
-                                <th><a data-toggle="modal" href="#JakeHamilton">Hamilton, Peter 'Jake'</a></th>
-
-                                <th>Sr</th>
-
-                                <th>M</th>
-
-                                <th>6'3"</th>
-
-                                <th>205</th>
-
-                                <th>Political Economy</th>
-
-                                <th>San Diego, CA</th>
-
-                                <th>La Jolla Country Day School</th>
                             </tr>
 
                             <tr>
@@ -314,46 +211,6 @@ $(function(){
                             </tr>
 
                             <tr>
-                                <th>15</th>
-
-                                <th><a data-toggle="modal" href="#BrandonVirgen">Virgen, Brandon</a></th>
-
-                                <th>So</th>
-
-                                <th>M</th>
-
-                                <th>6'0"</th>
-
-                                <th>180</th>
-
-                                <th>Undeclared</th>
-
-                                <th>Bellflower, Ca</th>
-
-                                <th>St. John Bosco</th>
-                            </tr>
-
-                            <tr>
-                                <th>16</th>
-
-                                <th><a data-toggle="modal" href="#EthanBaum">Baum, Ethan</a></th>
-
-                                <th>Sr</th>
-
-                                <th>M</th>
-
-                                <th>6'1"</th>
-
-                                <th>175</th>
-
-                                <th>History</th>
-
-                                <th>Berkeley, CA</th>
-
-                                <th>Berkeley</th>
-                            </tr>
-
-                            <tr>
                                 <th>17</th>
 
                                 <th><a data-toggle="modal" href="#AlexanderMcNaughton">McNaughton, Alexander</a></th>
@@ -391,46 +248,6 @@ $(function(){
                                 <th>Lafayette, CA</th>
 
                                 <th>The College Preparatory School</th>
-                            </tr>
-
-                            <tr>
-                                <th>19</th>
-
-                                <th><a data-toggle="modal" href="#MattSchladen">Schladen, Matt</a></th>
-
-                                <th>Sr</th>
-
-                                <th>G</th>
-
-                                <th>6'0"</th>
-
-                                <th>195</th>
-
-                                <th>Physics, Math, Economics</th>
-
-                                <th>Palos Verdes Estates, CA</th>
-
-                                <th>Palos Verdes</th>
-                            </tr>
-
-                            <tr>
-                                <th>20</th>
-
-                                <th><a data-toggle="modal" href="#EricSoenksen">Soenksen, Eric</a></th>
-
-                                <th>Sr</th>
-
-                                <th>D</th>
-
-                                <th>6'3"</th>
-
-                                <th>205</th>
-
-                                <th>Mechanical Engineering</th>
-
-                                <th>Encinitas, CA</th>
-
-                                <th>La Costa Canyon</th>
                             </tr>
 
                             <tr>
@@ -534,66 +351,6 @@ $(function(){
                             </tr>
 
                             <tr>
-                                <th>26</th>
-
-                                <th><a data-toggle="modal" href="#DanielPlautz">Plautz, Daniel</a></th>
-
-                                <th>Jr</th>
-
-                                <th>D</th>
-
-                                <th>6'1"</th>
-
-                                <th>200</th>
-
-                                <th>Sust. Env. Design & Rhetoric</th>
-
-                                <th>San Francisco, CA</th>
-
-                                <th>Lick-Wilmerding</th>
-                            </tr>
-
-                            <tr>
-                                <th>27</th>
-
-                                <th><a data-toggle="modal" href="#SamSchloemer">Schloemer, Sam</a></th>
-
-                                <th>Sr</th>
-
-                                <th>A</th>
-
-                                <th>5'9"</th>
-
-                                <th>160</th>
-
-                                <th>Chemical Engineering</th>
-
-                                <th>Walnut Creek, CA</th>
-
-                                <th>Las Lomas</th>
-                            </tr>
-
-                            <tr>
-                                <th>29</th>
-
-                                <th><a data-toggle="modal" href="#AugustWiese">Wiese, August</a></th>
-
-                                <th>Grad</th>
-
-                                <th>D</th>
-
-                                <th>6'2"</th>
-
-                                <th>185</th>
-
-                                <th>Industrial Engineering</th>
-
-                                <th>Oslo, Norway</th>
-
-                                <th>Oslo Commerce</th>
-                            </tr>
-
-                            <tr>
                                 <th>30</th>
 
                                 <th><a data-toggle="modal" href="#TanerDagdelen">Dagdelen, Taner</a></th>
@@ -651,26 +408,6 @@ $(function(){
                                 <th>Novato, CA</th>
 
                                 <th>Novato</th>
-                            </tr>
-
-                            <tr>
-                                <th>34</th>
-
-                                <th><a data-toggle="modal" href="#PatrickHop">Hop, Patrick</a></th>
-
-                                <th>Sr</th>
-
-                                <th>M</th>
-
-                                <th>6'3"</th>
-
-                                <th>195</th>
-
-                                <th>Applied Math: AI</th>
-
-                                <th>Millbrae, CA</th>
-
-                                <th>Southwestern Academy</th>
                             </tr>
 
                             <tr>
@@ -855,40 +592,6 @@ $(function(){
             </div><!-- /.modal-dialog -->
         </div><!-- /.modal -->
 
-        <div class="modal fade" id="BrandonVirgen" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-
-                        <h4 class="modal-title">Brandon Virgen</h4>
-                    </div>
-
-                    <div class="modal-body">
-                        <img class="modal-img" src="images/players/BrandonVirgen.JPG" alt="BrandonVirgen" width="300">
-
-                        <ul class="modal-list">
-                            <li>Number: 15</li>
-
-                            <li>Year: Sophomore</li>
-
-                            <li>Position: Midfield/Attack</li>
-
-                            <li>Height: 6'0"</li>
-
-                            <li>Weight: 180</li>
-
-                            <li>Major: Undeclared</li>
-
-                            <li>Hometown: Bellflower, Ca</li>
-
-                            <li>Highschool: St. John Bosco</li>
-                        </ul>
-                    </div>
-                </div><!-- /.modal-content -->
-            </div><!-- /.modal-dialog -->
-        </div><!-- /.modal -->
-
         <div class="modal fade" id="ConnorMcLeod" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
@@ -917,40 +620,6 @@ $(function(){
                             <li>Hometown: Hillsborough, CA</li>
 
                             <li>Highschool: Junipero Serra (CA)</li>
-                        </ul>
-                    </div>
-                </div><!-- /.modal-content -->
-            </div><!-- /.modal-dialog -->
-        </div><!-- /.modal -->
-
-        <div class="modal fade" id="EricSoenksen" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-
-                        <h4 class="modal-title">Eric Soenksen</h4>
-                    </div>
-
-                    <div class="modal-body">
-                        <img class="modal-img" src="images/players/EricSoenksen.JPG" alt="EricSoenksen" width="300">
-
-                        <ul class="modal-list">
-                            <li>Number: 20</li>
-
-                            <li>Year: Senior</li>
-
-                            <li>Position: Defense</li>
-
-                            <li>Height: 6'3"</li>
-
-                            <li>Weight: 205</li>
-
-                            <li>Major: Mechanical Engineering</li>
-
-                            <li>Hometown: Encinitas, CA</li>
-
-                            <li>Highschool: La Costa Canyon</li>
                         </ul>
                     </div>
                 </div><!-- /.modal-content -->
@@ -1059,40 +728,6 @@ $(function(){
             </div><!-- /.modal-dialog -->
         </div><!-- /.modal -->
 
-        <div class="modal fade" id="MattSchladen" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-
-                        <h4 class="modal-title">Matt Schladen</h4>
-                    </div>
-
-                    <div class="modal-body">
-                        <img class="modal-img" src="images/players/MattSchladen.JPG" alt="MattSchladen" width="300">
-
-                        <ul class="modal-list">
-                            <li>Number: 19</li>
-
-                            <li>Year: Senior</li>
-
-                            <li>Position: Goalie</li>
-
-                            <li>Height: 6'0"</li>
-
-                            <li>Weight: 195</li>
-
-                            <li>Major: Phyisics, Math, Econ</li>
-
-                            <li>Hometown: Palos Verdes Estates, CA</li>
-
-                            <li>Highschool: Palos Verdes</li>
-                        </ul>
-                    </div>
-                </div><!-- /.modal-content -->
-            </div><!-- /.modal-dialog -->
-        </div><!-- /.modal -->
-
         <div class="modal fade" id="AustinShore" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
@@ -1161,107 +796,6 @@ $(function(){
             </div><!-- /.modal-dialog -->
         </div><!-- /.modal -->
 
-        <div class="modal fade" id="SamSchloemer" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-
-                        <h4 class="modal-title">Sam Schloemer</h4>
-                    </div>
-
-                    <div class="modal-body">
-                        <img class="modal-img" src="images/players/SamSchloemer.JPG" alt="SamSchloemer" width="300">
-
-                        <ul class="modal-list">
-                            <li>Number: 27</li>
-
-                            <li>Year: Senior</li>
-
-                            <li>Position: Attack</li>
-
-                            <li>Height: 5'9"</li>
-
-                            <li>Weight: 160</li>
-
-                            <li>Major: Chemical Engineering</li>
-
-                            <li>Hometown: Walnut Creek, CA</li>
-
-                            <li>Highschool: Las Lomas</li>
-                        </ul>
-                    </div>
-                </div><!-- /.modal-content -->
-            </div><!-- /.modal-dialog -->
-        </div><!-- /.modal -->
-
-        <div class="modal fade" id="AugustWiese" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-
-                        <h4 class="modal-title">August Wiese</h4>
-                    </div>
-
-                    <div class="modal-body">
-                        <img class="modal-img" src="images/players/stock.png" alt="AugustWiese" width="300">
-
-                        <ul class="modal-list">
-                            <li>Number: 29</li>
-
-                            <li>Year: Exchange/Grad</li>
-
-                            <li>Position: Defense</li>
-
-                            <li>Height: 6'2"</li>
-
-                            <li>Weight: 185</li>
-
-                            <li>Major: Industrial Engineering</li>
-
-                            <li>Hometown: Oslo, Norway</li>
-
-                            <li>Highschool: Oslo Commerce School</li>
-                        </ul>
-                    </div>
-                </div><!-- /.modal-content -->
-            </div><!-- /.modal-dialog -->
-        </div><!-- /.modal -->
-
-        <div class="modal fade" id="EthanBaum" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-
-                        <h4 class="modal-title">Ethan Baum</h4>
-                    </div>
-
-                    <div class="modal-body">
-                        <img class="modal-img" src="images/players/EthanBaum.JPG" alt="EthanBaum" width="300">
-
-                        <ul class="modal-list">
-                            <li>Number: 16</li>
-
-                            <li>Year: Senior</li>
-
-                            <li>Position: Midfield</li>
-
-                            <li>Height: 6'1"</li>
-
-                            <li>Weight: 175</li>
-
-                            <li>Major: History</li>
-
-                            <li>Hometown: Berkeley, CA</li>
-
-                            <li>Highschool: Berkeley</li>
-                        </ul>
-                    </div>
-                </div><!-- /.modal-content -->
-            </div><!-- /.modal-dialog -->
-        </div><!-- /.modal -->
 
         <div class="modal fade" id="SamStowe" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
             <div class="modal-dialog">
@@ -1399,40 +933,6 @@ $(function(){
             </div><!-- /.modal-dialog -->
         </div><!-- /.modal -->
 
-        <div class="modal fade" id="DanielPlautz" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-
-                        <h4 class="modal-title">Plautz Daniel</h4>
-                    </div>
-
-                    <div class="modal-body">
-                        <img class="modal-img" src="images/players/DanielPlautz.JPG" alt="DanielPlautz" width="300">
-
-                        <ul class="modal-list">
-                            <li>Number: 26</li>
-
-                            <li>Year: Junior</li>
-
-                            <li>Position: Defense</li>
-
-                            <li>Height: 6'1"</li>
-
-                            <li>Weight: 200</li>
-
-                            <li>Major: Sust. Env. Design & Rhetoric</li>
-
-                            <li>Hometown: San Francisco, CA</li>
-
-                            <li>Highschool: Lick-Wilmerding</li>
-                        </ul>
-                    </div>
-                </div><!-- /.modal-content -->
-            </div><!-- /.modal-dialog -->
-        </div><!-- /.modal -->
-
         <div class="modal fade" id="KevinHuang" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
@@ -1501,40 +1001,6 @@ $(function(){
             </div><!-- /.modal-dialog -->
         </div><!-- /.modal -->
 
-        <div class="modal fade" id="PatrickHop" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-
-                        <h4 class="modal-title">Patrick Hop</h4>
-                    </div>
-
-                    <div class="modal-body">
-                        <img class="modal-img" src="images/players/PatrickHop.JPG" alt="PatrickHop" width="300">
-
-                        <ul class="modal-list">
-                            <li>Number: 34</li>
-
-                            <li>Year: Senior</li>
-
-                            <li>Position: Midfield</li>
-
-                            <li>Height: 6'3"</li>
-
-                            <li>Weight: 195</li>
-
-                            <li>Major: Applied Math: AI</li>
-
-                            <li>Hometown: Millbrae, CA</li>
-
-                            <li>Highschool: Southwestern</li>
-                        </ul>
-                    </div>
-                </div><!-- /.modal-content -->
-            </div><!-- /.modal-dialog -->
-        </div><!-- /.modal -->
-
         <div class="modal fade" id="SeanScott" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
@@ -1597,40 +1063,6 @@ $(function(){
                             <li>Hometown: Orinda, CA</li>
 
                             <li>Highschool: Miramonte</li>
-                        </ul>
-                    </div>
-                </div><!-- /.modal-content -->
-            </div><!-- /.modal-dialog -->
-        </div><!-- /.modal -->
-
-        <div class="modal fade" id="TomRiis" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-
-                        <h4 class="modal-title">Tom Riis</h4>
-                    </div>
-
-                    <div class="modal-body">
-                        <img class="modal-img" src="images/players/TomRiis.JPG" alt="TomRiis" width="300">
-
-                        <ul class="modal-list">
-                            <li>Number: 3</li>
-
-                            <li>Year: Sophomore</li>
-
-                            <li>Position: Midfield</li>
-
-                            <li>Height: 5'11"</li>
-
-                            <li>Weight: 170</li>
-
-                            <li>Major: Physics</li>
-
-                            <li>Hometown: Carlsbad, CA</li>
-
-                            <li>Highschool: La Costa Canyon</li>
                         </ul>
                     </div>
                 </div><!-- /.modal-content -->
@@ -1739,46 +1171,7 @@ $(function(){
             </div><!-- /.modal-dialog -->
         </div><!-- /.modal -->
 
-        <div class="modal fade" id="JakeHamilton" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-
-                        <h4 class="modal-title">Peter 'Jake' Hamilton</h4>
-                    </div>
-
-                    <div class="modal-body">
-                        <img class="modal-img" src="images/players/JakeHamilton.JPG" alt="JakeHamilton" width="300">
-
-                        <ul class="modal-list">
-                            <li>Number: 5</li>
-
-                            <li>Year: Senior</li>
-
-                            <li>Position: Midfield</li>
-
-                            <li>Height: 6'3"</li>
-
-                            <li>Weight: 205</li>
-
-                            <li>Major: Political Economy</li>
-
-                            <li>Hometown: San Diego, CA</li>
-
-                            <li>Highschool: La Jolla Country Day School</li>
-                        </ul>
-                    </div>
-                </div><!-- /.modal-content -->
-            </div><!-- /.modal-dialog -->
-        </div><!-- /.modal -->
         <!--============================================Modal =========================================================================-->
 
-        <footer>
-            <p><a href="history.html">About</a> | <a href="http://mcla.us">MCLA</a> | <a href="http://mcla.us/WCLL/">WCLL</a> | <a href="http://berkeley.edu">University of California, Berkeley</a> | <a href="http://recsports.berkeley.edu/">Rec Sports</a></p><br>
+<?php include 'footer.php';?>
 
-            <p>&#169; 2013 California Men's Lacrosse &#8722; The Official Site of UC Berkeley Men's Club Lacrosse</p>
-        </footer><!--   footer -->
-    </div><!-- container -->
-</body>
-</html>

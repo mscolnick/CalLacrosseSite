@@ -1,90 +1,28 @@
-<!DOCTYPE html>
+<?php 
+$title = 'Recruiting';
+include 'header.php';?>
+<div class="row">
+    <div class="col-lg-10 col-offset-1">
+        <h4 class="top-title">Playing at Cal</h4>
 
-<html lang="en-US">
-<head>
+        <div class="well well-lg">
+            <p>At UC-Berkeley you will get an elite education at the #1 public university in the world while having the opportunity to play lacrosse in an NCAA-modeled program.
+                <br>
+                <br>The main difference between Cal Lacrosse and DI Lacrosse: time. The goal of this experience is to be professional while we're on the field, in the weight room and in the film room, but to also be efficient with our time. We never want lacrosse to feel like a job at Cal. Practices will be ninety minutes, up tempo and competitive. We step on the field and we get after it. In the end, our ultimate goals for Cal Lacrosse players are to excel in the classroom, to get our degree, earn the job and the life we've always dreamed of, to win Championships, and have tons of fun on and off the field in the process. It is an achievable balance at Cal.
+                <br>
+                <br>On top of all that, add in our beautiful location, easy access to cities of culture like San Francisco and Oakland, the beaches, the bay, hiking and biking trails, and the energy, excitement and spirit of Pac-12 Athletics, and Cal Lacrosse is a home run college experience.
+                <br>
+                <br>If interested in communicating with Coach Ned Webster, please email him at <a href="nedwebster@berkeley.edu">nedwebster@berkeley.edu</a> after filling out our questionnaire below.</p>
+            <hr>
+
+            <b>First Meeting:</b> Wednesday, August 27th at 4:30pm in the RSF (exact location TBA)
+            <br>
+            <br>
+            <b>Fall Practice Times:</b> M/W/F 4:15-5:45p on Underhill Field
+
+        </div>
+    </div>
     <!--
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
--->
-
-    <title>University of California Men's Lacrosse | Recruiting</title>
-    <link href="style/styles.css" rel="stylesheet" type="text/css">
-    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript">
-</script>
-    <script src="js/bootstrap.js" type="text/javascript">
-</script>
-    <script type="text/javascript">
-$(function(){
-                var normalColor = $('a:link').css('color');
-                $('a:visited').css('color', normalColor);
-            });
-    </script><!--Favicon-->
-    <link rel="shortcut icon" href="images/logo/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="images/logo/favicon.ico" type="image/x-icon">
-</head>
-
-<body class="background">
-    <div class="container">
-        <div class="social-top">
-            <a href="https://twitter.com/CalBearsLax"><img alt="twitter" src="images/social/twitter.png"></a> <a href="https://www.facebook.com/pages/California-Mens-Lacrosse/191022664259579"><img alt="facebook" src="images/social/facebook.png"></a> <a href="http://www.linkedin.com/groups/Cal-Lacrosse-Alumni-Group-4879125"><img alt="linkedin" src="images/social/linkedin.png"></a>
-        </div><!-- social-bar -->
-
-        <div class="cover"></div><!-- cover -->
-
-        <nav class="navbar navbar-default">
-            <ul class="nav nav-justified">
-                <li><a href="index.html">Home</a></li>
-
-                <li><a href="news.html">News</a></li>
-
-                <li><a href="schedule.html">Schedule</a></li>
-
-                <li class="dropdown">
-                    <a class="dropdown-toggle" data-toggle="dropdown" href="">Roster</a>
-
-                    <ul class="dropdown-menu">
-                        <li class="drop-li"><a class="drop-a" href="players.html">Players</a></li>
-
-                        <li class="drop-li"><a class="drop-a" href="coaches.html">Coaches</a></li>
-                    </ul>
-                </li>
-
-                <li><a class="active" href="recruiting.html">Recruiting</a></li>
-
-                <li><a href="alumni.html">Alumni</a></li>
-
-                <li><a href="donate.html">Donate</a></li>
-
-                <li><a href="contact.html">Contact</a></li>
-
-                <li><a href="history.html">History</a></li>
-
-                <li><a href="http://www.calbearsshop.com/categories-dtg-lacrosse.html" target="_blank">Gear</a></li>
-            </ul>
-        </nav><!-- navbar -->
-
-        <div class="content">
-            <div class="row">
-                <div class="col-lg-10 col-offset-1">
-                    <h4 class="top-title">Playing at Cal</h4>
-
-                    <div class="well well-lg">
-                        <p>At UC-Berkeley you will get an elite education at the #1 public university in the world while having the opportunity to play lacrosse in an NCAA-modeled program.<br>
-                        <br>
-                        The main difference between Cal Lacrosse and DI Lacrosse: time. The goal of this experience is to be professional while we're on the field, in the weight room and in the film room, but to also be efficient with our time. We never want lacrosse to feel like a job at Cal. Practices will be ninety minutes, up tempo and competitive. We step on the field and we get after it. In the end, our ultimate goals for Cal Lacrosse players are to excel in the classroom, to get our degree, earn the job and the life we've always dreamed of, to win Championships, and have tons of fun on and off the field in the process. It is an achievable balance at Cal.<br>
-                        <br>
-                        On top of all that, add in our beautiful location, easy access to cities of culture like San Francisco and Oakland, the beaches, the bay, hiking and biking trails, and the energy, excitement and spirit of Pac-12 Athletics, and Cal Lacrosse is a home run college experience.<br>
-                        <br>
-                        If interested in communicating with Coach Ned Webster, please email him at <a href="nedwebster@berkeley.edu">nedwebster@berkeley.edu</a> after filling out our questionnaire below.</p>
-                        <hr>
-
-                         <b>First Meeting:</b> Wednesday, August 27th at 4:30pm in the RSF (exact location TBA)
-                         <br><br>
-                         <b>Fall Practice Times:</b> M/W/F 4:15-5:45p on Underhill Field
-
-                    </div>
-                </div><!--
             <h4 class="top-title"> Frequently Asked Questions</h4>
 
 
@@ -206,17 +144,10 @@ Finally, Cal is always competing for a spot at the MCLA National Tournament. Thi
          </div>
 -->
 
-                <div id="recruiter-form" class="col-lg-10 col-offset-1">
-                    <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dHdkamhtRXlwa2lwRC1GUVFpU1hTMmc6MQ" frameborder="0" marginwidth=".25" marginheight="0" width="800" height="1000"></iframe>
-                </div>
-            </div><!-- row -->
-        </div><!-- content -->
+    <div id="recruiter-form" class="col-lg-10 col-offset-1">
+        <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dHdkamhtRXlwa2lwRC1GUVFpU1hTMmc6MQ" frameborder="0" marginwidth=".25" marginheight="0" width="800" height="1000"></iframe>
+    </div>
+</div>
+<!-- row -->
 
-        <footer>
-            <p><a href="history.html">About</a> | <a href="http://mcla.us">MCLA</a> | <a href="http://mcla.us/WCLL/">WCLL</a> | <a href="http://berkeley.edu">University of California, Berkeley</a> | <a href="http://recsports.berkeley.edu/">Rec Sports</a></p><br>
-
-            <p>&#169; 2013 California Men's Lacrosse &#8722; The Official Site of UC Berkeley Men's Club Lacrosse</p>
-        </footer><!--   footer -->
-    </div><!-- container -->
-</body>
-</html>
+<?php include 'footer.php';?>
