@@ -10,12 +10,20 @@ include 'header.php';?>
             <br>November 21 - 23, 2014</h2>
         <br>
 
+        <a class="btn btn-info btn-lg" target="_blank" href="https://www.eventbrite.com/e/cal-lacrosse-big-game-weekend-tickets-13748972547">Register</a>
+
+
+        <br>
+        <br>
+
         <blockquote>
             <b>Big Game Happy Hour</b>
             <br>Friday, November 21
             <br>4 - 7PM
-            <br>Schroeder's SF
-            <br>240 Front st.
+            <br>Aventine (downstairs)**
+            <br>582 Washington St.
+            <br>San Francisco
+            <br>**please note this is a change from years past when the event was at Schroeders
             <br>
             <br>
         </blockquote>

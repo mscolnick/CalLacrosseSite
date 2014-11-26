@@ -9,13 +9,41 @@ include 'header.php';?>
         <div class="well well-lg">
             <div class="media">
                 <a class="pull-left">
-                    <img class="bio-pic img-thumbnail" src="images/coaches/WebsterThumbnail.JPG" alt="Kelly">
+                    <img class="bio-pic img-thumbnail" src="images/coaches/WebsterThumbnail.JPG" alt="Webster">
                 </a>
 
                 <div class="media-body">
-                    <h4 class="media-heading">Ned Webster &#8722; Head Coach</h4>Coach Webster comes to Cal after nine years as Head Coach for Dominican University. During his tenure at Dominican, Coach Webster transformed a winless club into a nationally ranked NCAA program, led his team to back-to-back WILA Championships in 2013 and 2014, and was twice named WILA Coach of the Year. Coach Webster managed all aspects of the Men's Lacrosse program including recruiting, player development, scouting, competitive strategy, fundraising, and program development.
-                    <br>
-                    <br>Coach Webster is steeped in Lacrosse tradition; he played high school lacrosse at Boys Latin in Baltimore and collegiate lacrosse at the University of Notre Dame. His father Mickey Webster is in the NCAA Hall of Fame and won two National Championships with Johns Hopkins, his brothers played lacrosse at University of North Carolina and University of Virgina.
+                    <h4 class="media-heading">Ned Webster (Head Coach)</h4>
+					Coach Webster grew up in Baltimore, Maryland, playing high school lacrosse at the Boys' Latin School before heading to South Bend, Indiana to play for the University of Notre Dame, earning three GWLL titles and three NCAA tournament bids, before graduating in 1999. 
+					<br><br>
+					Webster comes from a lacrosse family: his father Mickey is in the US Lacrosse Hall of Fame and won two National Championships with Johns Hopkins, while his brothers, Jim and John, played lacrosse at University of Virginia and the University of North Carolina, respectively.
+					<br><br>
+					Entering his first year at Cal, Webster spent the previous nine seasons as Head Coach at Dominican University, transforming a winless club team into a nationally ranked NCAA program, leading his team to back-to-back Western Intercollegiate Lacrosse Association (WILA) Championships in 2013 and 2014, the same two seasons he was named WILA Coach of the Year.
+					<br><br>
+					Webster spent two years as an assistant coach for the San Francisco Dragons, the Bay Area's former professional Major League Lacrosse franchise, coaching the offense.
+					<br><br>
+					Coach Webster lives in Marin with his wife, Megan, and they are expecting their first child in March.
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- news article-->
+
+
+    <div class="news-article">
+        <div class="well well-lg">
+            <div class="media">
+<!--                 <a class="pull-left">
+                    <img class="bio-pic img-thumbnail" src="images/coaches/Jepsen.JPG" alt="Jepsen">
+                </a>
+ -->
+                <div class="media-body">
+                    <h4 class="media-heading">Paul Jepsen (Defensive Coordinator)</h4>
+					Coach Jepsen is a 2004 graduate of Duke University where he was a three year starter on defense and co-captain during his senior year. He lead the Blue Devils to consecutive ACC Championship Titles in 2001 and 2002. 
+					<br><br>
+					Jepsen grew up in Connecticut where he graduated from New Canaan High School and played under legendary coach, Howard Benedict. He garnered All-American honors, and was selected as the 2000 Connecticut High School Lacrosse Player of the Year. 
+					<br><br>
+					Prior to joining the Cal coaching staff Paul was the Defensive Coordinator at Greenwich H.S. in CT for the 2013 and 2014 seasons, the latter of which the team was ranked 11th nationally by Inside Lacrosse. Jepsen was also the Head Coach at South Elgin High School boys lacrosse team in South Elgin, IL, leading the storm during their inaugural season in 2012. Prior to his stint at South Elgin, he was an assistant coach in Loyola Academy's youth lacrosse program. 
                 </div>
             </div>
         </div>
@@ -26,34 +54,16 @@ include 'header.php';?>
         <div class="well well-lg">
             <div class="media">
                 <a class="pull-right">
-                    <img class="bio-pic img-thumbnail" src="images/coaches/Brian%20Ledyard.jpg" alt="Brian%20Ledyard">
+                    <img class="bio-pic img-thumbnail" src="images/coaches/kelly.jpg" alt="Kelley">
                 </a>
 
                 <div class="media-body">
-                    <h4 class="media-heading">Brian Ledyard &#8722; Volunteer Assistant</h4>Brian grew up in Raleigh, NC where he was a three-sport varsity athlete, playing football, basketball, and lacrosse. He went on to play football at Tufts University, contributing mainly as a special teams player and defensive back for the Jumbos.
-                    <br>
-                    <br>Brian began his career in education in 2002 as an English teacher and three-season coach at Gilman School in Baltimore, MD. Brian is grateful for the tremendous support and mentoring he received during his eight years at Gilman, and he credits Gilman's current varsity lacrosse staff and many other influential coaching colleagues for his understanding of the game.
-                    <br>
-                    <br>Also the Dean of Students at Drew School in San Francisco, Brian looks forward to his third spring with the Golden Bears. He, his wife Dana, and his son Ben are proud to be part of the Cal Lacrosse family.
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- news article-->
-
-    <div class="news-article">
-        <div class="well well-lg">
-            <div class="media">
-                <a class="pull-right">
-                    <img class="bio-pic img-thumbnail" src="images/coaches/kelly.jpg" alt="Kelly">
-                </a>
-
-                <div class="media-body">
-                    <h4 class="media-heading">Kevin Kelly &#8722; Goalie and Special Teams Coordinator</h4>Kevin grew up in Needham, Massachusetts and played soccer and lacrosse at Needham High School. He went on to play goalie at Providence College.
-                    <br>
-                    <br>Kevin began his career as a coach at Piedmont High school where he served as head coach from 2004-2009. In 2011, Kevin earned his masters in Education Leadership and Organization, with a special focus on Urban Education at the University of San Francisco. In 2012 Kevin co-founded the Oakland Lacrosse Club, a non profit that uses the sport of lacrosse as a medium to provide mentoring, nutrition education and academic enrichment.
-                    <br>
-                    <br>Kevin enters his 3rd season as the UC Berkeley goalie coach.
+                    <h4 class="media-heading">Kevin Kelley (Assistant Coach)</h4>
+                    Coach Kelley enters his fourth season on the Cal coaching staff, working primarily with the goalies and defense.
+					<br><br>
+					Kelley grew up in Needham, Massachusetts and played soccer and lacrosse at Needham High School before heading on to play goalie at Providence College.
+					<br><br>
+					Kelley began his career as a coach at Piedmont High school where he served as Head Coach from 2004-2009. In 2011, Kelley earned his Masters in Education Leadership and Organization, with a special focus on Urban Education from the University of San Francisco, and in 2012 he co-founded the Oakland Lacrosse Club, a non-profit that uses the sport of lacrosse as a medium to provide mentoring, nutrition education and academic enrichment. 
                 </div>
             </div>
         </div>
@@ -68,14 +78,44 @@ include 'header.php';?>
                 </a>
 
                 <div class="media-body">
-                    <h4 class="media-heading">Brian Rutherford &#8722; Conditioning and Fitness Coordinator</h4>Rutherford, an East Bay Area native, played 4 years D2 collegiate soccer at CSU Monterey Bay, where he graduated with a bachelors degree in education, was captain of his team in 2001, and earned Student-Athlete of the Year honors for his university that same season. He then studied kinesiology/sports science at SF State as a masters student while racing bicycles for several very competitive California based teams. For a six month span he was the #1 ranked amateur rider in the United States. He has been coaching field sport athletes for 10 years and is currently the strength and conditioning coach for University of California Men's Lacrosse Team.
-                    <br>
-                    <br>Athletes and teams that he coaches are known for their unrelenting effort, incredibly strong mental tenacity, and ability to stand toe to toe in any situation. For more on Rutherford&#39;s training approach, one should visit his training, teams, and events company, called <a href="http://www.eastbayathletics.com/8chambers/">Eastbay Athletics</a>, and learn about the "8 Chambers of Competitive Athletic Training"
+                    <h4 class="media-heading">Brian Rutherford (Conditioning Coach, Assistant Coach)</h4>
+					Coach Rutherford enters his third season as the Cal Men's Lacrosse Conditioning Coach. 
+					<br><br>
+					An East Bay Area native, played four years of NCAA soccer at CSU Monterey Bay, where he graduated with a Bachelors Degree in Education, was captain of his team and earned Student-Athlete of the Year honors for his university in 2001. 
+					<br><br>
+					Rutherford then studied Kinesiology/ Sports Science at San Francisco State as a masters student while racing bicycles for several highly competitive California based teams. For a six month span he was the #1 ranked amateur rider in the United States. He has been coaching field sport athletes for ten years. Athletes and teams that he coaches are known for their unrelenting effort and strong mental tenacity. 
+					<br><br>
+					For more on Rutherford's training approach, visit his burgeoning company for training, team sports and events, <a href="http://www.eastbayathletics.com/8chambers/">Eastbay Athletics</a>.
                 </div>
             </div>
         </div>
     </div>
     <!-- news article-->
+
+    <div class="news-article">
+        <div class="well well-lg">
+            <div class="media">
+                <a class="pull-right">
+                    <img class="bio-pic img-thumbnail" src="images/coaches/dean.jpg" alt="Dean">
+                </a>
+
+                <div class="media-body">
+                    <h4 class="media-heading">Christopher Dean (Assistant Coach)</h4>
+					For over 20 years, Christopher Dean has been involved with coaching at all levels in Pennsylvania, Texas, and California. A former high school All-American from West Chester, PA, Coach Dean played collegiate lacrosse at Villanova University. 
+					<br><br>
+					During the 2012, 2013 and 2014 seasons, Dean served as an Assistant Coach at Dominican University, helping the Penguins to back-to-back WILA Championships in 2013 and 2014 and the first national ranking in the program's history. 
+					<br><br>
+					During the 2011 and 2012 seasons, Dean was an Assistant Coach at Marin Academy, helping the Wildcats to a combined record of 31-8. After the 2011 season, Dean was named a US Lacrosse Assistant Coach of the Year. In 2012, the Wildcats won the North Coast Section Division 2 Championship, first time in program history. 
+					<br><br>
+					Since 2003, Dean has been coaching with the Ross Valley Lacrosse Club in Marin County, and for the past four years has served as Club President 
+					<br><br>
+					Dean and his wife, Stephie, live in Marin County with their two children, Sydney and Owen.
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- news article-->
+
 
     <div class="news-article">
         <div class="well well-lg">
@@ -87,9 +127,36 @@ include 'header.php';?>
 -->
 
                 <div class="media-body">
-                    <h4 class="media-heading">Andrew Patton &#8722; Weight Training and Strength Coordinator</h4>Andrew Patton is the current Strength and Conditioning coach for the Golden Bears. A 2011 graduate of UC Berkeley as well as a former player, this is Andrew's third year as a member of the coaching staff, and 7th year with team. He holds a B.S. in Toxicology and is C.S.C.S. certified.
-                    <br>
-                    <br>Andrew has NCAA, NFL, MCLA, WCLA, and ACHA experience. He also has worked with a variety of private clients in the fields of distance running, professional golf, elite military fitness, and others. He currently competes in powerlifting and strongman and is coached by Jesse Burdick. More information about Andrew can be found at <a href="www.PattonStrength.com">www.PattonStrength.com</a>.
+                    <h4 class="media-heading">Andrew Patton (Strength Coach)</h4>
+                    Coach Patton is entering his third year as the Cal Men's Lacrosse Strength Coach. 
+					<br><br>
+					Growing up in Philadelphia, Pennsylvania, Patton was a standout defenseman at Conestoga High School before continuing his playing career here at Cal where he graduated in 2011 with a B.S. in Toxicology. 
+					<br><br>
+					Patton is C.S.C.S. certified and has NCAA, NFL, MCLA, WCLA, and ACHA experience. He has also worked with a variety of private clients in the fields of distance running, professional golf, elite military fitness, and others. 
+					<br><br>
+					He currently competes in powerlifting and strongman and is coached by Jesse Burdick. More information about Andrew can be found at <a href="http://bearslax.org/www.PattonStrength.com">PattonStrength</a>.
+				</div>
+            </div>
+        </div>
+    </div>
+    <!-- news article-->
+
+    <div class="news-article">
+        <div class="well well-lg">
+            <div class="media">
+                <a class="pull-right">
+                    <img class="bio-pic img-thumbnail" src="images/coaches/Brian%20Ledyard.jpg" alt="Brian%20Ledyard">
+                </a>
+
+                <div class="media-body">
+                    <h4 class="media-heading">Brian Ledyard (Assistant Coach)</h4>
+					Coach Ledyard grew up in Raleigh, NC where he was a three-sport varsity athlete, playing football, basketball, and lacrosse. He went on to play football at Tufts University, contributing mainly as a special teams player and defensive back for the Jumbos. 
+					<br><br>
+					Ledyard began his career in education in 2002 as an English teacher and three-season coach at Gilman School in Baltimore, MD, where he received tremendous support and mentoring from Gilman's current varsity lacrosse staff during his eight years there.
+					<br><br>
+					The Dean of Students at Drew School in San Francisco, Brian looks forward to his fourth spring with the Golden Bears. 
+					<br><br>
+					Ledyard and his wife, Dana, live in Berkeley and are the proud parents of Ben (2) and their newborn, Mason
                 </div>
             </div>
         </div>
