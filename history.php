@@ -3,7 +3,8 @@ $title = 'History';
 include 'header.php';?>
 
 <div class="row">
-    <div class="col-lg-10 col-offset-1">
+        <div class=" col-lg-10 col-lg-offset-1">
+
         <h4 class="top-title">History of Cal Men's Lacrosse</h4>
 
         <div class="well well-lg">

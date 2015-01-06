@@ -2,7 +2,7 @@
 $title = 'Recruiting';
 include 'header.php';?>
 <div class="row">
-    <div class="col-lg-10 col-offset-1">
+    <div class="col-lg-10 col-lg-offset-1">
         <h4 class="top-title">Playing at Cal</h4>
 
         <div class="well well-lg">
@@ -144,7 +144,7 @@ Finally, Cal is always competing for a spot at the MCLA National Tournament. Thi
          </div>
 -->
 
-    <div id="recruiter-form" class="col-lg-10 col-offset-1">
+    <div id="recruiter-form" class="col-lg-10 col-lg-offset-1">
         <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dHdkamhtRXlwa2lwRC1GUVFpU1hTMmc6MQ" frameborder="0" marginwidth=".25" marginheight="0" width="800" height="1000"></iframe>
     </div>
 </div>

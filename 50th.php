@@ -7,7 +7,7 @@ include 'header.php';?>
 </i>
     </h4>
 
-    <div class="well well-lg col-lg-10 col-offset-1">
+    <div class="well well-lg col-lg-10 col-lg-offset-1">
 
         <div class="row">
             <div class="col-lg-12">

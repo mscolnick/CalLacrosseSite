@@ -3,7 +3,7 @@
 <head>
     <title>University of California Men's Lacrosse | <?php echo $title?> </title>
     <link href="style/styles.css" rel="stylesheet" type="text/css">
-    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
     <script src="js/bootstrap.js" type="text/javascript"></script>
     <script type="text/javascript">

@@ -6,7 +6,9 @@ include 'header.php';?>
 
     <h4 class="top-title">Contact</h4>
 
-    <div class="col-lg-5 col-offset-1">
+    <div class="well well-lg col-lg-10 col-lg-offset-1">
+
+    <div class="col-lg-6">
 
         <address class="contact">
             Field Location:
@@ -21,12 +23,10 @@ include 'header.php';?>
             <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=California%2BMemorial%2BStadium%2C%2BBancroft%2BWay%2C%2BBerkeley%2C%2BCA%2B94720&ie=UTF8&z=16&t=m&iwloc=near&output=embed"></iframe>
             <br><a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=California%2BMemorial%2BStadium%2C%2BBancroft%2BWay%2C%2BBerkeley%2C%2BCA%2B94720&ie=UTF8&z=16&t=m&iwloc=near">View Larger Map</a>
         </div>
-
-
     </div>
 
 
-    <div class="col-lg-5 col-offset-1">
+    <div class="col-lg-4 col-lg-offset-2">
 
         <address class="contact">
             <strong>Coach Webster</strong>
@@ -54,14 +54,10 @@ include 'header.php';?>
 
         <br>
         <p class="contact">If you are interested in playing lacrosse at Cal, please fill in our <a href="recruiting.html#recruiter-form"> Players Interest Form</a>.</p>
-
-
-
-
     </div>
 
 
-
+    </div>
 </div>
 
 

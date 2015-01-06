@@ -1,6 +1,53 @@
-<?php 
+<?php
 $title = 'News';
 include 'header.php';?>
+<div class="row">
+    <h4 class="top-title">Spring 2015</h4>
+
+    <div class="news-article">
+        <div class="well well-lg">
+            <div class="media">
+                <div class="media-body">
+                    <h4 class="media-heading">Cal Lacrosse 2015 Release</h4>
+
+<br>
+BERKELEY, CA - The University of California-Berkeley men's lacrosse program is pleased to announce the Golden Bears' 2015 captains, coaching staff and schedule.
+<br><br>
+Leading the team this year will be two San Diego natives: senior long stick midfielder, Tucker Chambers (Torrey Pines H.S.), and senior attackman, Sean Hayden (La Costa Canyon H.S.). Both Chambers and Hayden are former MCLA Scholar-Athletes and WCLL All-League selections.
+<br><br>
+"We couldn't be happier with the way Tucker and Sean have led the team this fall," said first year head coach, Ned Webster. "They both bring enormous energy and pas
+sion to practice each day, and they share a unique way of making what we do both serious and fun, which is no easy accomplishment."
+<br><br>
+Joining Webster (Baltimore, MD, Notre Dame '99) on the Cal staff will be defensive coordinator, Paul Jepsen (New Canaan, CT, Duke '04), assistant coaches, Kevin Kelley (Needham, MA, Providence ‘00), Christopher Dean (Westchester, PA, Villanova ‘93) and Brian Ledyard (Raleigh, NC, Tufts ‘01); conditioning coach, Brian Rutherford (Oakland, CA, CSU Monterey Bay ‘01), and strength coach, Andrew Patton (Philadelphia, PA, UC Berkeley ‘11).
+<br><br>
+"We have a strong staff of great coaches who, thankfully, are also outstanding people," Webster said. "They not only have solid pedigrees and are articulate teachers of the game, but they keep things fun and they care about our kids' development off the field."
+<br><br>
+The thirteen-game regular season schedule features five teams that finished in the top 20 of the 2014 MCLA poll, two MCLA semifinalists, two teams with NCAA experience, and six home games which will be played in historic California Memorial Stadium. Following two preseason scrimmages, Cal will open the regular season in Berkeley on Saturday evening, February 7th against WCLL member, Santa Clara.
+<br><br>
+"I like our schedule in terms of the number of games, the trips we will take to play out-of-conference opponents, and the high quality programs we play," Webster said.
+<br><br>
+Cal travels south to Los Angeles to play two games in the "Pac-12 Shootout" hosted by UCLA, starting off with 2014 MCLA runner-up, Arizona State, on Saturday, February 14th, and the University of Southern California on Sunday.
+<br><br>
+The Bears will return home to face long-time west coast rival and 2014 MCLA semifinalist, UC Santa Barbara, on Sunday, February 22nd, and just six days later will resume league play when they host a talented Sonoma State team.
+<br><br>
+"We will face some excellent teams early in our season," said Webster. "These games should help us better understand who we are as a team and will better prepare us for the rest of our season."
+<br><br>
+The first weekend in March will feature a flight to Austin, Texas where Cal will face 2014 MCLA tournament team, the University of Texas, on Saturday, March 8th, and Texas A&M the following day in College Station.
+<br><br>
+After a drive north to play league opponent, Chico State, on March 14th, the Bears will be back in Memorial Stadium to face Bay Area and NCAA DII opponent, Notre Dame de Namur University, before taking spring break to recharge.
+<br><br>
+When the Bears return, they will face four straight WCLL opponents, each under Friday night lights, hosting former NCAA DII program and new WCLL contender, Dominican University, and then finishing their home slate against 2014 WCLL Champion, Cal Poly, on April 10th at 8:00 p.m. This game will feature Senior Night festivities and a double-header with the Cal Women's Lacrosse team.
+<br><br>
+The Bears play at UC Davis on Friday, April 17th before concluding the regular season with the "Big Game" in Palo Alto against the Stanford Cardinal under the lights on Friday, April 24th.
+
+                   </div>
+            </div>
+        </div>
+    </div>
+    <!-- news article-->
+</div>
+
+
 <div class="row">
     <h4 class="top-title">The Dawn of a New Era</h4>
 
@@ -71,7 +118,7 @@ include 'header.php';?>
         <div class="well well-lg">
             <div class="media" id="calvchico">
                 <div class="media-body">
-                    <h4 class="media-heading">Cal vs. Florida</h4>On a crisp march night with the Cal Band blaring from the sidelines the Bear’s lacrosse team faced off against the Florida Gators. Tom Riis easily wins the first faceoff and the first goal comes equally as fast for the Bears but the Gators are quick to answer with two of their own. Seconds before the end of the first quarter Sam Schloemer is able to tie up the score 2-2 with a far pipe zinger. The bears started the second quarter with a quick man up goal and use the momentum to go on a wild run. Attack and midfield threats including Hayden, Sheehan, Riis and shore pick apart Florida’s defense putting up four more goals while the Bear’s close defense and LSMs stomped any of the Gator’s offensive hope with numerous take-aways and teeth-clenching hits allowing the bears to close the out the half 7-2. Due to the tireless advertising the Bears saw its largest crowd of the season packed into Memorial stadium as lacrosse enthused youth from all over the bay area came to see the Bears play and form a on the field 50 at half time, honoring the fiftieth anniversary of Cal Men’s Lacrosse. The Bears remained ever dominant during the second half, scoring 7 more goals to Florida’s 2, shutting down multiple man-down opportunities and playing fundamental lacrosse across the board. Offensive control along with defensive supremacy allowed the Bear’s to close out the evening on top, 14-4 in what was arguably the Bear’s best performance to date.
+                    <h4 class="media-heading">Cal vs. Florida</h4>On a crisp march night with the Cal Band blaring from the sidelines the Bear's lacrosse team faced off against the Florida Gators. Tom Riis easily wins the first faceoff and the first goal comes equally as fast for the Bears but the Gators are quick to answer with two of their own. Seconds before the end of the first quarter Sam Schloemer is able to tie up the score 2-2 with a far pipe zinger. The bears started the second quarter with a quick man up goal and use the momentum to go on a wild run. Attack and midfield threats including Hayden, Sheehan, Riis and shore pick apart Florida's defense putting up four more goals while the Bear's close defense and LSMs stomped any of the Gator's offensive hope with numerous take-aways and teeth-clenching hits allowing the bears to close the out the half 7-2. Due to the tireless advertising the Bears saw its largest crowd of the season packed into Memorial stadium as lacrosse enthused youth from all over the bay area came to see the Bears play and form a on the field 50 at half time, honoring the fiftieth anniversary of Cal Men's Lacrosse. The Bears remained ever dominant during the second half, scoring 7 more goals to Florida's 2, shutting down multiple man-down opportunities and playing fundamental lacrosse across the board. Offensive control along with defensive supremacy allowed the Bear's to close out the evening on top, 14-4 in what was arguably the Bear's best performance to date.
                     <br>
                     <br>GO BEARS!
                     <br>

@@ -1,10 +1,10 @@
 /* Resets and Clearfix
 -------------------------------------------------------------- */
-html,body,h1,h2,h3,h4,h5,h6,p,img,ul,ol,li,form,fieldset {
+/*html,body,h1,h2,h3,h4,h5,h6,p,img,ul,ol,li,form,fieldset {
 	border:0 none;
 	margin:0;
 	padding:0;
-}
+}*/
 
 /* Containers
 ----------------------------------------------------------------------------------------------------*/
@@ -15,6 +15,8 @@ html,body,h1,h2,h3,h4,h5,h6,p,img,ul,ol,li,form,fieldset {
 	min-width:960px!important;
 	box-shadow:2px 2px 14px #000;
 	background:#000;
+	padding-right: 0 !important; 
+	padding-left: 0 !important;
 }
 
 /* Generic classes
@@ -79,6 +81,7 @@ blue {
 /* 	height: 1000px; */
 	background-color:#f2f2f2;
 	width:960px!important;
+	padding-bottom: 20px;
 }
 
 /* Site Navigation
@@ -90,11 +93,20 @@ blue {
 	padding:0!important;
 }
 
+.navbar{
+	border-top: none !important;
+	border-right: none !important;
+	border-left: none !important;
+	min-height: 0 !important;
+	border-radius:0 !important;
+}
+
 .dropdown-menu {
 	border-top:2px solid #b78727!important;
 	border-bottom:2px solid #b78727!important;
-	border-radius:0;
+	border-radius:0 !important;
 }
+
 
 .nav {
 	list-style:none!important;
@@ -273,7 +285,7 @@ footer {
 	text-align:center;
 	font-size:80%;
 	margin:0!important;
-	padding:20px!important;
+	padding:40px!important;
 }
 
 .panel-body {
@@ -292,10 +304,6 @@ footer {
 	margin:10px;
 	margin-right:20px;
 	float:left;
-}
-
-.farley {
-	width:250px!important;
 }
 
 .modal-body {
@@ -338,16 +346,8 @@ tbody {
 	font-size:11px;
 }
 
-.pad50 {
-	padding:0 50px!important;
-}
-
 .alumnichallenge {
 	font-size:115%;
-}
-
-.dates {
-	padding-left:50px;
 }
 
 footer a {

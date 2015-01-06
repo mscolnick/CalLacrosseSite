@@ -1,4 +1,4 @@
-<?php 
+<?php
 $title = 'Home';
 include 'header.php';?>
 
@@ -9,7 +9,7 @@ include 'header.php';?>
                 <!-- Indicators -->
 
                 <ol class="carousel-indicators">
-                    
+
                     <!-- <li data-slide-to="2" data-target="#carousel-example-generic"></li> -->
 
                     <!-- <li data-slide-to="3" data-target="#carousel-example-generic"></li> -->
@@ -18,13 +18,22 @@ include 'header.php';?>
                 <!-- Wrapper for slides -->
 
                 <div class="carousel-inner">
-                    <div class="item active">
+
+                        <div class="item active">
+                        <img alt="camp" src="images/carousel/CalLaxCampsCarousel.jpg">
+
+                        <div class="carousel-caption">
+                            <p>Men's Cal Lacrosse Camp....Boys aged 10-18....<a href=" http://www.ussportscamps.com/lacrosse/nike/california-boys-lacrosse-camp/">Register NOW!</a></p>
+                        </div>
+                    </div>
+
+                    <div class="item">
                         <img alt="berkeley" src="images/carousel/berkeley.JPG">
 
                         <div class="carousel-caption">
-                            <h4>Cal Lacrosse Big Game Weekend, November 21 - 23</h4>
+                            <h4>2015 Season Announced!</h4>
 
-                            <p>Join Alumni, Players, Coaches and Family to celebrate and support Cal Lacrosse. Register <a href="https://www.eventbrite.com/e/cal-lacrosse-big-game-weekend-tickets-13748972547">here</a>
+                            <p>The University of California-Berkeley men's lacrosse program is pleased to announce the Golden Bears' 2015 captains, coaching staff and schedule. <a href="http://us5.campaign-archive2.com/?u=17683472b8f05d668da845f7a&id=34fae4405a" target="_blank">Read More!</a>
                             </p>
                         </div>
                     </div>
@@ -44,17 +53,11 @@ include 'header.php';?>
                         <img alt="" src="images/carousel/50thlogo.jpg">
 
                         <div class="carousel-caption">
-                            <p>The Bear's 2014 season has come to an end. Thanks to all of our supporters. Check out this awesome <a href="http://lax.tv/link/12310/" target="_blank">highlight video</a> of our 15-12 win over Stanford.</p>
+                            <p>Thanks to all of our supporters who made the Bear's 50th anniversary season such a success. Check out this awesome highlight video of Cal's 15-12 win over Stanford. <a href="http://lax.tv/link/12310/" target="_blank">click here</a></p>
                         </div>
                     </div>
 
-                    <div class="item">
-                        <img alt="50TH" src="images/carousel/youth50.png">
 
-                        <div class="carousel-caption">
-                            <p>Did you know that there are one million lacrosse players in America? Half of them are under the age of 15! At the Cal vs. Florida Lacrosse Game, we created a 'youth 50' photo to celebrate the 50th anniversary season of Cal Lacrosse.</p>
-                        </div>
-                    </div>
 
                 </div>
                 <!-- Controls -->
@@ -77,7 +80,7 @@ include 'header.php';?>
 
             <p>If you are coming to Cal, want to come to Cal, or just interested in playing lacrosse, fill out the <a href="recruiting.html#recruiter-form">recruitment form</a>. If you have any questions, check out our <a href="recruiting.html">FAQs</a> page.</p>
         </div>
-        
+
 <!--         <div class="article">
             <h3>Game Recap</h3>
          <p> <b> 9-5 MCLA, 5-1 WCLL</b><br></p>
@@ -90,7 +93,7 @@ include 'header.php';?>
 
 <div class="row">
     <div class="col-lg-4">
-        
+
 <!--         <div class="article">
             <h3>Upcoming Games</h3>
         <div class="upcoming-games">
@@ -122,7 +125,7 @@ include 'header.php';?>
 
     <div class="col-lg-4" style="padding:0; margin:0; height:auto">
         <a class="twitter-timeline" data-widget-id="393496479148412928" href="https://twitter.com/CalBearsLax">Tweets by
-        @CalBearsLax</a> 
+        @CalBearsLax</a>
         <script type="text/javascript">
         ! function(d, s, id) {
             var js, fjs = d.getElementsByTagName(s)[0],
