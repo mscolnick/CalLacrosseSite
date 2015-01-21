@@ -20,11 +20,8 @@ include 'header.php';?>
                 <div class="carousel-inner">
 
                         <div class="item active">
-                        <img alt="camp" src="images/carousel/CalLaxCampsCarousel.jpg">
+                        <img alt="camp" src="images/carousel/teamPhoto.jpg">
 
-                        <div class="carousel-caption">
-                            <p>Men's Cal Lacrosse Camp....Boys aged 10-18....<a href=" http://www.ussportscamps.com/lacrosse/nike/california-boys-lacrosse-camp/">Register NOW!</a></p>
-                        </div>
                     </div>
 
                     <div class="item">
