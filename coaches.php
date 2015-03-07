@@ -9,7 +9,7 @@ include 'header.php';?>
         <div class="well well-lg">
             <div class="media">
                 <a class="pull-left">
-                    <img class="bio-pic img-thumbnail" src="images/coaches/WebsterThumbnail.JPG" alt="Webster">
+                    <img class="bio-pic img-thumbnail" src="images/coaches/Webster.jpg" alt="Webster">
                 </a>
 
                 <div class="media-body">
@@ -33,10 +33,10 @@ include 'header.php';?>
     <div class="news-article">
         <div class="well well-lg">
             <div class="media">
-<!--                 <a class="pull-left">
-                    <img class="bio-pic img-thumbnail" src="images/coaches/Jepsen.JPG" alt="Jepsen">
+                <a class="pull-right">
+                    <img class="bio-pic img-thumbnail" src="images/coaches/Jepsen.jpg" alt="Jepsen">
                 </a>
- -->
+
                 <div class="media-body">
                     <h4 class="media-heading">Paul Jepsen (Defensive Coordinator)</h4>
 					Coach Jepsen is a 2004 graduate of Duke University where he was a three year starter on defense and co-captain during his senior year. He lead the Blue Devils to consecutive ACC Championship Titles in 2001 and 2002. 
@@ -53,8 +53,8 @@ include 'header.php';?>
     <div class="news-article">
         <div class="well well-lg">
             <div class="media">
-                <a class="pull-right">
-                    <img class="bio-pic img-thumbnail" src="images/coaches/kelly.jpg" alt="Kelley">
+                <a class="pull-left">
+                    <img class="bio-pic img-thumbnail" src="images/coaches/Kelly.jpg" alt="Kelly">
                 </a>
 
                 <div class="media-body">
@@ -73,7 +73,7 @@ include 'header.php';?>
     <div class="news-article">
         <div class="well well-lg">
             <div class="media">
-                <a class="pull-left">
+                <a class="pull-right">
                     <img class="bio-pic img-thumbnail" src="images/coaches/Rutherford.jpg" alt="Rutherford">
                 </a>
 
@@ -95,7 +95,7 @@ include 'header.php';?>
     <div class="news-article">
         <div class="well well-lg">
             <div class="media">
-                <a class="pull-right">
+                <a class="pull-left">
                     <img class="bio-pic img-thumbnail" src="images/coaches/dean.jpg" alt="Dean">
                 </a>
 
@@ -122,7 +122,7 @@ include 'header.php';?>
             <div class="media">
                 <!--
                   <a class="pull-right">
-                    <img  class="bio-pic img-thumbnail" src="images/coaches/patton.jpg" alt="Patton">
+                    <img  class="bio-pic img-thumbnail" src="images/coaches/Patton.jpg" alt="Patton">
                   </a>
 -->
 
@@ -144,9 +144,9 @@ include 'header.php';?>
     <div class="news-article">
         <div class="well well-lg">
             <div class="media">
-                <a class="pull-right">
-                    <img class="bio-pic img-thumbnail" src="images/coaches/Brian%20Ledyard.jpg" alt="Brian%20Ledyard">
-                </a>
+<!--                 <a class="pull-right">
+                    <img class="bio-pic img-thumbnail" src="images/coaches/Ledyard.jpg" alt="Brian%20Ledyard">
+                </a> -->
 
                 <div class="media-body">
                     <h4 class="media-heading">Brian Ledyard (Assistant Coach)</h4>

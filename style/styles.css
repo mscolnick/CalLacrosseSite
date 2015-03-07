@@ -299,7 +299,8 @@ footer {
 }
 
 .modal-img {
-	width:375px!important;
+	width:auto !important;
+	height: 450px !important;
 	padding:5px;
 	margin:10px;
 	margin-right:20px;
@@ -307,7 +308,7 @@ footer {
 }
 
 .modal-body {
-	height:350px;
+	height:500px;
 }
 
 .modal-list {

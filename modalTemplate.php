@@ -1,4 +1,4 @@
-<div class="modal fade" id="<?php echo $firstname,$lastname?>" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal fade" id="<?php echo $number?>" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
@@ -8,7 +8,7 @@
             </div>
 
             <div class="modal-body">
-                <img class="modal-img" src="images/players/<?php echo $firstname,$lastname?>.JPG" alt="<?php echo $firstname,$lastname?>" width="300">
+                <img class="modal-img" src="images/players/<?php echo $number?>.jpg" alt="<?php echo $firstname,$lastname?>" height="300">
 
                 <ul class="modal-list">
                     <li>Number: <?php echo $number?> </li>

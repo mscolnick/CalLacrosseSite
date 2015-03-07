@@ -1,7 +1,7 @@
 <tr>
     <th><?php echo $number?></th>
 
-    <th><a data-toggle="modal" href="#<?php echo $firstname,$lastname?>"><?php echo $lastname?>, <?php echo $firstname?></a></th>
+    <th><a data-toggle="modal" href="#<?php echo $number?>"><?php echo $lastname?>, <?php echo $firstname?></a></th>
 
     <th><?php echo $year?></th>
 
