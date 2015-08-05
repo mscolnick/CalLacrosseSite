@@ -30,10 +30,7 @@
                 <img alt="linkedin" src="images/social/linkedin.png">
             </a>
         </div>
-        <!-- social-bar -->
-
         <div class="cover"></div>
-        <!-- cover -->
 
         <?php include 'navbar.php';?>
 
